@@ -22,19 +22,19 @@ The following market series are retrieved through the `yfinance` package:
 
 
 
-| Variable | Ticker | Use |
+| Variable | Ticker | Use | 
 
-|---|---:|---:|
+|---|---:|---:| 
 
-| Bitcoin | `BTC-USD` | Alternative asset |
+| Bitcoin | `BTC-USD` | Alternative asset | 
 
-| SPDR Gold Shares | `GLD` | Tradable proxy for gold |
+| SPDR Gold Shares | `GLD` | Tradable proxy for gold | 
 
-| S\&P 500 | `^GSPC` | Equity benchmark |
+| S\&P 500 | `^GSPC` | Equity benchmark | 
 
-| VIX | `^VIX` | Market-stress indicator |
+| VIX | `^VIX` | Market-stress indicator | 
 
-| WTI Crude Oil | `CL=F` | Market control |
+| WTI Crude Oil | `CL=F` | Market control | 
 
 | U.S. Dollar Index | `DX-Y.NYB` | Market control |
 
@@ -70,15 +70,15 @@ data/
 
 ```
 
-| Data | Source |
+| Data | Source | 
 
-|---:|---:|
+|---:|---:| 
 
-| U.S. Economic Policy Uncertainty | \[PolicyUncertainty.com](https://www.policyuncertainty.com/us\_monthly.html) |
+| U.S. Economic Policy Uncertainty | \[PolicyUncertainty.com](https://www.policyuncertainty.com/us\_monthly.html) | 
 
-| Geopolitical Risk Index | \[Caldara \& Iacoviello GPR](https://www.matteoiacoviello.com/gpr.htm) |
+| Geopolitical Risk Index | \[Caldara \& Iacoviello GPR](https://www.matteoiacoviello.com/gpr.htm) | 
 
-| 10-Year U.S. Treasury Yield (`DGS10`) | \[FRED](https://fred.stlouisfed.org/series/DGS10) |
+| 10-Year U.S. Treasury Yield (`DGS10`) | \[FRED](https://fred.stlouisfed.org/series/DGS10) | 
 
 | S\&P 500 Ex-Magnificent Seven | \[S\&P Dow Jones Indices](https://www.spglobal.com/spdji/en/indices/equity/sp-500-ex-magnificent-7-index/) |
 
