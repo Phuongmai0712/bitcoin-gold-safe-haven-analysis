@@ -1,4 +1,4 @@
-\# Data Sources
+# Data Sources
 
 
 
@@ -10,11 +10,11 @@ Some market data are downloaded automatically when the notebook runs. Other sour
 
 
 
-\---
+---
 
 
 
-\## Downloaded in the Notebook
+## Downloaded in the Notebook
 
 
 
@@ -24,7 +24,7 @@ The following market series are retrieved through the `yfinance` package:
 
 | Variable | Ticker | Use |
 
-|---|---|---|
+|---|---:|---:|
 
 | Bitcoin | `BTC-USD` | Alternative asset |
 
@@ -44,11 +44,11 @@ These series are downloaded automatically when the notebook is run.
 
 
 
-\---
+---
 
 
 
-\## Local Source Files
+## Local Source Files
 
 
 
@@ -72,7 +72,7 @@ data/
 
 | Data | Source |
 
-|---|---|
+|---:|---:|
 
 | U.S. Economic Policy Uncertainty | \[PolicyUncertainty.com](https://www.policyuncertainty.com/us\_monthly.html) |
 
