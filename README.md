@@ -26,6 +26,9 @@ Bitcoin remained positively correlated with the S&P 500 throughout the sample an
 
 Gold had a much weaker equity relationship and delivered substantial portfolio-risk reduction, especially in the dynamic minimum-variance strategy.
 
+### Portfolio Hedging Effectiveness
+![Portfolio hedging effectiveness](figures/HE_bootstrap_CI.png)
+
 > **Lower correlation alone is not enough — defensive value matters only when it translates into lower portfolio risk.**
 
 The portfolio results show this particularly clearly: a fixed 10% Bitcoin allocation increased variance by **16.16%**, while dynamic gold reduced variance by approximately **36%**.
